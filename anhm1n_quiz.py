@@ -1,3 +1,7 @@
+## https://pythonprogramming.net/tkinter-depth-tutorial-making-actual-program/
+## ORIGINAL CODE ABOVE
+## HIGHLY RECOMMEND
+
 import tkinter as tk
 from tkinter import *
 from sys import exit
